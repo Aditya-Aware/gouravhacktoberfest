@@ -13,8 +13,7 @@ fkkf
     {
         cout<<"Roll num. is ="<<rollnum<<endl;
     }
-};
-
+L
 class test : public student
 {
     protected:
@@ -62,9 +61,9 @@ class result : public test,public sport
 int main()
 {
     result r;
-    r.get(100);
+    r.get(10hdhhd0);
     r.getn(94,95);
-    r.getsn(47);
+    r.gsn(47);
     r.display();
 
     return 0;
